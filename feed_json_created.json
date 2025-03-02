@@ -1,0 +1,15 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Midtown AI (blog feed)",
+    "home_page_url": "https://blog.midtown.ai/",
+    "feed_url": "https://blog.midtown.ai/feed_json_created.json",
+    "description": "Let's explore this transforming technology. Let's shape the future of AI together.",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png",
+    "authors": [
+        {
+            "name": "info@midtown.ai (Emmanuel M.)"
+        }
+    ],
+    "language": "en",
+    "items": []
+}

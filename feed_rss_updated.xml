@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Midtown AI (blog feed)</title>
+    <description>Let&#39;s explore this transforming technology. Let&#39;s shape the future of AI together.</description>
+    <link>https://blog.midtown.ai/</link>
+    <atom:link href="https://blog.midtown.ai/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>info@midtown.ai (Emmanuel M.)</managingEditor>
+    
+    <language>en</language>
+
+    
+    <pubDate>Sun, 02 Mar 2025 04:36:49 -0000</pubDate>
+    <lastBuildDate>Sun, 02 Mar 2025 04:36:49 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.17.1</generator>
+
+    
+    
+    <image>
+      <url>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png</url>
+      <title>Midtown AI (blog feed)</title>
+      <link>https://blog.midtown.ai/</link>
+    </image>
+    
+
+    
+    
+  </channel>
+</rss>
